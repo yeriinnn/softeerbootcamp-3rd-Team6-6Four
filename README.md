@@ -136,7 +136,7 @@ https://github.com/softeerbootcamp-3rd/Team6-6Four/assets/102938120/f1444b3e-54a
 <div align="center">
   
 **프로젝트 기간**  
-2024.01.31~2023.02.29
+2024.01.31~2024.02.29
   
 </div>
 
